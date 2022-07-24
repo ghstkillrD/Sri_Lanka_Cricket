@@ -1,0 +1,125 @@
+body {margin: 30px;
+  background: rgb(2,0,36);
+  background: linear-gradient(45deg, rgba(2,0,36,1) 4%, rgba(4,2,58,1) 29%, rgba(4,2,62,1) 47%, rgba(9,9,121,1) 67%, rgba(0,204,249,1) 91%, rgba(0,212,255,1) 95%);
+    color:white;
+
+}
+
+  p.c {
+    white-space: pre;
+              }
+
+h1{
+    color: rgb(8, 8, 49);
+    padding:10;
+    font-size:50px;
+}
+
+ul {
+    list-style-type:none;
+    margin: 0;
+    padding: 10;
+    overflow: hidden;
+    background-color:rgb(6, 15, 54) ;
+  }
+  
+  li {
+    float: left;
+  }
+  .first{
+      margin-right:10px;
+      margin-bottom: 10px;
+      border-radius: 25px;
+      border: 2px solid #0a1101;
+      padding: 10px; 
+      width: auto;
+      height: auto;  
+      color:rgb(0, 0, 0);
+      background-image: url(gray.jpg);no-repeat center fixed;
+      background-size=cover;
+      float:right;
+      
+      }
+      .second{
+        float:left
+        
+      }
+      
+  .third{
+    background: rgb(2,0,36);
+background: linear-gradient(45deg, rgba(2,0,36,1) 4%, rgba(4,2,58,1) 17%, rgba(9,9,121,1) 55%, rgba(255,235,0,1) 98%);
+margin-right:10px;
+margin-top:10px;
+border-radius: 20px;
+border: 2px solid #0a1101;
+padding: 10px; 
+width: auto;
+height: auto;  
+color:rgb(255, 255, 255);
+
+  }
+  
+
+  
+  li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover, .dropdown:hover .dropbtn {
+    background-color: rgb(46, 232, 245);
+  }
+  
+  li.dropdown {
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(29, 188, 209, 0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content a:hover {background-color: #f1f1f1;}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  li{display:list-item;}
+  ul{
+    text-align: justify;
+    font-size: 15px;
+}
+table {
+  border-collapse: collapse;
+  width: 60%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: justify;
+  border-bottom: 1px solid #ddd;
+}
+
+    dl {
+        display: block;
+        margin-top: 1em;
+        margin-bottom: 1em;
+        margin-left: 0;
+        margin-right: 0;
+      }
+      
