@@ -1,4 +1,4 @@
-# sri_lanka_cricket
+# Sri_Lanka_Cricket
 
 A website model for Sri Lanka cricket team using HTML, CSS, Bootstrap and Js.
 
