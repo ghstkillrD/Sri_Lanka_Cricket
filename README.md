@@ -1,6 +1,6 @@
 # Sri_Lanka_Cricket
 
-A website model for Sri Lanka cricket team using HTML, CSS, Bootstrap and Js.
+A website model for Sri Lanka cricket team using HTML, CSS, Bootstrap and JS.
 
 === This is done by me and my group for the group project of web fundamentals module in Y1S1(2021) at University of Kelaniya ===
 
